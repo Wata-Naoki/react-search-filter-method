@@ -1,3 +1,3 @@
 # react-search-filter-method
 
-#npm install bootstrapしてね！
+npm install bootstrapしてね！
